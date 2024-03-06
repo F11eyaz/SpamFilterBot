@@ -18,6 +18,8 @@ Restart the Bot: To restart the bot and resume message analysis, send /start aga
 # Commands
 /start: Launches the bot and enables message analysis.
 
+/help: Reminds the user how to use the application
+
 /stop: Temporarily stops the bot from analyzing messages. Use /start to resume.
 
 
