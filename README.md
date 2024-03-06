@@ -17,8 +17,11 @@ Restart the Bot: To restart the bot and resume message analysis, send /start aga
 
 # Commands
 /start: Launches the bot and enables message analysis.
+
 /stop: Temporarily stops the bot from analyzing messages. Use /start to resume.
-Note
+
+
+# Note
 This bot is for demonstration purposes and may not provide perfect spam detection. It uses a machine learning model trained on a specific dataset and may not generalize to all types of spam messages.
 
 # TG bot development
