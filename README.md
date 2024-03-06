@@ -1,4 +1,3 @@
-Certainly! Here's a basic README template for your Telegram bot's functionality:
 
 #Spam Filter Bot
 This Telegram bot is designed to filter spam messages using a machine learning model trained to classify messages as spam or not spam (ham). It provides a simple interface for users to interact with the bot and receive spam classification results.
