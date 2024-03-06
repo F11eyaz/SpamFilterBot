@@ -35,3 +35,9 @@ Model Training: Splitting the dataset into training and testing sets. Training a
 Model Evaluation: Evaluating the trained model on the testing data using accuracy, precision, recall, F1-score, and confusion matrix.
 
 The model training proccess is saved in the sf_training_colab.ipynb file.
+
+
+
+# Video demonstration
+
+https://youtu.be/JWektjd2mx8
