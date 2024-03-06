@@ -17,12 +17,17 @@ Restart the Bot: To restart the bot and resume message analysis, send /start aga
 
 # Commands
 /start: Launches the bot and enables message analysis.
+
+/help: Remind the user how the bot works
+
 /stop: Temporarily stops the bot from analyzing messages. Use /start to resume.
-Note
+
+# Note
 This bot is for demonstration purposes and may not provide perfect spam detection. It uses a machine learning model trained on a specific dataset and may not generalize to all types of spam messages.
 
 # TG bot development
 This bot was developed using Python and the python-telegram-bot library. It uses a pre-trained machine learning model for spam detection.
+We deployed telegram bot on Render.com
 
 # ML model development
 The dataset for this project was taken from Kaggle: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset.
@@ -38,6 +43,8 @@ The model training proccess is saved in the sf_training_colab.ipynb file.
 
 
 
-# Video demonstration
+# Links
 
-https://youtu.be/JWektjd2mx8
+Video Demonstration: https://youtu.be/JWektjd2mx8
+
+Telegram Bot: @SpFilter_bot
